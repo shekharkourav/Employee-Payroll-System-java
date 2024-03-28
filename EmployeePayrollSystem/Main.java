@@ -49,6 +49,10 @@ class PartTimeEmployee extends Employee{
        return hoursWorked*hourlyRate;
     }
 }
+
+class PayrollSystem{
+    
+}
 public class Main {
 public static void main(String[] args) {
     System.out.println("jai shree ram");
